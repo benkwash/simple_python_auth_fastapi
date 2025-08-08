@@ -1,6 +1,6 @@
-# Project Name
+# Simple Auth
 
-A brief description of your project goes here.  
+This is a simple api with an auth implementation built with **FastAPI**.  
 This project is built with **FastAPI** and is organized for scalability and maintainability.
 
 ## Features
