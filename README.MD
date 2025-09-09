@@ -28,8 +28,8 @@ src/
 
 1. **Clone the repository:**
     ```sh
-    git clone <repo-url>
-    cd <project-directory>
+    git clone https://github.com/benkwash/simple_python_auth_fastapi.git
+    cd simple_python_auth_fastapi
     ```
 
 2. **Create and activate a virtual environment:**
@@ -46,7 +46,7 @@ src/
 4. **Set up environment variables:**
     - Copy `.env.example` to `.env` and update values as needed.
 
-5. **Run the application:**
+5. **Run the application locally:**
     ```sh
     uvicorn src.main:app --reload
     ```
